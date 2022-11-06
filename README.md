@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Piotrek158
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning pySpark
-- 💞️ I’m looking to collaborate on some Data or BigData projects
+- 👀 I’m interested in Data Science, desktop and mobile apps
+- 🌱 I’m currently learning pySpark and R
+- 💞️ I’m looking to collaborate on some Data Science projects that would introduce me to practical side of either python or R
 
 <!---
 Piotrek158/Piotrek158 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
